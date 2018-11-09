@@ -8,5 +8,5 @@ HEIGHT = 600
 FPS = 30
 # colors
 WHITE = (255, 255, 255)
-BLACK = (0, 0, 0)
-REDDISH = (240, 55, 66)
+BLACK = (0,0,0)
+REDDISH = (240,55,66)
